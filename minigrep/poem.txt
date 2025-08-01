@@ -1,0 +1,30 @@
+Oh Rust, you’re so smart,
+With lifetimes tearing me apart.
+No nulls, no race, no fun —
+I miss C++… just kidding, I run.
+
+I begged for a loop,
+It gave me match, then said "Oops!"
+Pattern match or die,
+Else the compiler will cry.
+
+The borrow checker
+Acts like my clingy ex —
+"Is that my reference?"
+Yes… I guess?
+
+Threads are now safe, yay!
+But I can’t clone my own way.
+Ownership is king,
+But I own absolutely nothing.
+
+Cargo builds it all,
+While mocking me in debug.
+"Try again, mortal,"
+It chuckles with smug.
+
+But deep in my soul,
+I know it’s all worth the pain —
+Because when it runs…
+It runs like a goddamn train. 🚂
+
