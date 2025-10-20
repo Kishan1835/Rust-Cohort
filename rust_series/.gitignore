@@ -1,0 +1,9 @@
+
+# Rust
+target/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
